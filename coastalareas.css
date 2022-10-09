@@ -1,0 +1,50 @@
+body{
+    background-image: url(https://ehq-production-australia.imgix.net/8fc9f35dc254205768ffe0baddeffeb5d3c56b1b/projects/images/000/047/793/original/Image_foreshore_activation.jpg?auto=compress%2Cformat&w=1080);
+    background-repeat: no-repeat;
+    background-size: 130%;
+    padding-left:25%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 8%;
+    text-align: center;
+    background-attachment: fixed;
+}
+h1{
+    text-align:center;
+}
+.set{
+    background-color: rgb(194, 204, 0);
+    background-position: center;
+    width: 60%; 
+    height: 200%;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-bottom: 10%;
+    text-align: left;
+    background-attachment: fixed;
+}
+.btn{
+    background-color: white;
+    color:brown;
+    height:5%;
+    width:16%;
+}
+.btn:hover{
+    background-color:rgb(116, 182, 229);
+    color:red;
+}
+a{ 
+    text-decoration: none;
+}
+.sec{
+    text-align: right;
+    padding-right: 10%;
+}
+.highlight{
+    background-color: greenyellow;
+    height: 7em;
+    width: 9em;
+    position: fixed;
+    border-width: 5px;
+}
+ 
