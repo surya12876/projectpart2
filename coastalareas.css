@@ -1,7 +1,7 @@
 body{
     background-image: url(https://ehq-production-australia.imgix.net/8fc9f35dc254205768ffe0baddeffeb5d3c56b1b/projects/images/000/047/793/original/Image_foreshore_activation.jpg?auto=compress%2Cformat&w=1080);
     background-repeat: no-repeat;
-    background-size: 130%;
+    background-size: cover;
     padding-left:25%;
     padding-right: 5%;
     padding-top: 5%;
